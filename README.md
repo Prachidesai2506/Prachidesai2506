@@ -3,6 +3,7 @@
 - 🌱 I’m mastering machine learning.
 - 💬 Ask me about **Machine Learning, Neural Networks, and UI/UX Design**.
 - 📫 Reach me at: [prachidesai7708@gmail.com](mailto:prachidesai7708@gmail.com)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/prachi-desai-77759326a/)!
 
 ---
 
