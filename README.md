@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**Prachidesai2506/Prachidesai2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi, I'm Prachi Desai 👋
 - 🔭 I’m currently working on research regarding lung cancer segmentation.
 - 🌱 I’m mastering machine learning.
