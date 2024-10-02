@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi, I'm Prachi Desai 👋
 - 🔭 I’m currently working on research regarding lung cancer segmentation.
 - 🌱 I’m mastering machine learning.
