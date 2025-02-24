@@ -1,5 +1,4 @@
 ## Hi, I'm Prachi Desai 👋
-- 🔭 I’m currently working on research regarding lung cancer segmentation.
 - 🌱 I’m mastering machine learning.
 - 💬 Ask me about **Machine Learning, Neural Networks, and UI/UX Design**.
 - 📫 Reach me at: [prachidesai7708@gmail.com](mailto:prachidesai7708@gmail.com)
